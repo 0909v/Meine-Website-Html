@@ -24,7 +24,7 @@ p.font-family  {
     color: gray;
 }
 
-h2 {
+h2.font-family {
 
     font-family: cursive;
     text-transform: capitalize;
